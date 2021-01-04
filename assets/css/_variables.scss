@@ -23,7 +23,11 @@ $global-secondary-color-dark: #a9a9b3;
 
 // Color of the text
 $global-font-color: #161209 !default;
-$global-font-color-dark: #a9a9b3 !default;
+$global-font-color-dark: #b8b8be !default;
+
+// Color of emphasised text
+$global-font-italic-color: #55f53f48 !default;
+$global-font-italic-color-dark: #f361277c !default;
 
 // Color of the secondary text
 $global-font-secondary-color: #a9a9b3 !default;
@@ -90,10 +94,10 @@ $toc-content-font-size: 1rem !default;
 
 // Color of the single link
 $single-link-color: #2c678d !default;
-$single-link-color-dark: #55bde2 !default;
+$single-link-color-dark: #e2b555 !default;
 
 // Color of the hover single link
-$single-link-hover-color: #ef3982 !default;
+$single-link-hover-color: #3997ef !default;
 $single-link-hover-color-dark: #bdebfc !default;
 
 // Color of the table background
@@ -121,12 +125,12 @@ $pagination-link-hover-color-dark: #fff !default;
 
 // ========== Code ========== //
 // Color of the code
-$code-color: #c7254e !default;
-$code-color-dark: #E5BF78 !default;
+$code-color: #3681e4 !default;
+$code-color-dark: #e97742 !default;
 
 // Color of the code background
-$code-background-color: #ececf0 !default;
-$code-background-color-dark: #272C34 !default;
+$code-background-color: #f9f9fa !default;
+$code-background-color-dark: #3b4049 !default;
 
 $code-info-color: #9c9c9c !default;
 $code-info-color-dark: #b1b0b0 !default;
